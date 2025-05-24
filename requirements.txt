@@ -6,3 +6,7 @@ langchain.core
 streamlit-lightweight-charts
 groq
 uvicorn
+fastapi
+requests
+pydantic
+
