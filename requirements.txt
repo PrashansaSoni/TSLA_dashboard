@@ -3,3 +3,6 @@ langchain
 dotenv
 pandas
 langchain.core
+streamlit-lightweight-charts
+groq
+uvicorn
