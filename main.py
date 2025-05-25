@@ -247,7 +247,8 @@ with tabs[0]:
 with tabs[1]:
     st.title("Agentic  Chatbot")
 
-    API_URL = "http://localhost:8000/chat"
+    # API_URL = "http://localhost:8000/chat"
+    API_URL = "    https://2f04-14-139-239-221.ngrok-free.app "
     prompt = st.text_area("Enter your message:")
 
     if st.button("Send"):
